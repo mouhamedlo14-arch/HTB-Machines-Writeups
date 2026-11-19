@@ -158,7 +158,7 @@ WHERE first_name LIKE 'Bar%'
 - `AND` : les **deux** conditions doivent être vraies en même temps.
 - `hire_date = '1990-01-01'` : embauché exactement à cette date (format `AAAA-MM-JJ`, entre apostrophes).
 
-### ✅ Réponse
+###  Réponse
 
 > **`last_name` = `Mitchem`** (Barton Mitchem, `emp_no` 10227, embauché le 1990‑01‑01).
 
